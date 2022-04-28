@@ -1,5 +1,7 @@
 // Declarar uma variável qualquer, que receba um objeto vazio.
-
+var nomeSla = {
+    
+}
 /*
 Declarar uma variável `pessoa`, que receba suas informações pessoais.
 As propriedades e tipos de valores para cada propriedade desse objeto devem ser:
